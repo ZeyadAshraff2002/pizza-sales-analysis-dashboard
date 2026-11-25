@@ -1,5 +1,4 @@
 # pizza-sales-analysis-dashboard
-# Pizza Sales Performance Dashboard
 
 ## Project Overview
 
